@@ -1,0 +1,11 @@
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\vehicles\bin\Debug\netcoreapp2.1\vehicles.deps.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\vehicles\bin\Debug\netcoreapp2.1\vehicles.runtimeconfig.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\vehicles\bin\Debug\netcoreapp2.1\vehicles.runtimeconfig.dev.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\vehicles\bin\Debug\netcoreapp2.1\vehicles.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\vehicles\bin\Debug\netcoreapp2.1\vehicles.pdb
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\vehicles\obj\Debug\netcoreapp2.1\vehicles.csprojAssemblyReference.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\vehicles\obj\Debug\netcoreapp2.1\vehicles.csproj.CoreCompileInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\vehicles\obj\Debug\netcoreapp2.1\vehicles.AssemblyInfoInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\vehicles\obj\Debug\netcoreapp2.1\vehicles.AssemblyInfo.cs
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\vehicles\obj\Debug\netcoreapp2.1\vehicles.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\vehicles\obj\Debug\netcoreapp2.1\vehicles.pdb
